@@ -6,13 +6,13 @@ Activity 1: Array Manipulation
 -Find and print the largest value.
 -Reverse the array using iteration.
 
-#Activity 2: Linear Search Task
+Activity 2: Linear Search Task
 
 -Write a method that searches for a number in an integer array.
 -Return the index if found, or -1 if not found.
 -Test with different input sizes.
 
-#Activity 3: String Reversal
+Activity 3: String Reversal
 
 -Accept a word from the user.
 -Reverse it using a method and display both original and reversed values.
